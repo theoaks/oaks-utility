@@ -1,0 +1,15 @@
+{
+  "name": "oaks-utility",
+  "version": "1.0.0",
+  "description": "Utility functions that I use",
+  "main": "index.js",
+  "files": [
+    "dist/*"
+  ],
+  "repository": "https://github.com/theoaks/oaks-utility.git",
+  "author": "Tunde John Ojerinde <theoaksgraphix@hotmail.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "sweetalert2": "^11.3.6"
+  }
+}
